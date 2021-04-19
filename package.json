@@ -1,5 +1,6 @@
 {
   "name": "jxem-web",
+  "homepage": "https://jxem.github.io/playground/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
